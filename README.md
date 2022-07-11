@@ -1,2 +1,0 @@
-# chaiyarattana.github.io
-
