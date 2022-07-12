@@ -802,3 +802,20 @@ footer p:nth-child(2){
 	line-height: 16px;
     color: rgb(255, 255, 255);
   }
+@media screen and (max-width: 768px) and (min-width:600px) 
+{
+	.about2{
+	
+		padding: 75px 0px;
+		height: 150%;
+		background-position: center;
+		background-size: cover;
+	
+		margin: 0px auto;
+		width: 100%;
+		max-width: none !important;
+		min-height: 100vh;
+		background-color: rgb(0, 0, 0);
+		box-shadow: 0px 2px 10px gray;
+	}
+}
