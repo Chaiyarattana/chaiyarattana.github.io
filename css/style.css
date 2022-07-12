@@ -178,6 +178,7 @@ h4{
 	border:10px solid transparent;
 	background-color: rgb(65, 65, 65);
 }
+
 .about-text{
 	width: 550px;
 }
@@ -563,9 +564,9 @@ footer p:nth-child(2){
 
   }
   .profile-image img {
-    width: auto;
+    width: 100%;
     height: 100%;   
-    
+    border-radius: 10%;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
   }
