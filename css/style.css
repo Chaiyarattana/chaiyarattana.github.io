@@ -896,7 +896,7 @@ footer p:nth-child(2){
 		background-size: cover;
 	
 		margin: 0px auto;
-		width: 100%;
+		width: 150%;
 		max-width: none !important;
 		min-height: 100vh;
 		background-color: rgb(0, 0, 0);
